@@ -31,22 +31,22 @@ hasil run
 # Latihan Soal – 03
 Kode dan Hasil run:
 
-# 1.a();
+1.a();
 ![Alt Text](https://github.com/inamyrpl28/Jobsheet12/blob/master/Lat3a().PNG)
 
 Hasil run eror dikarenakan method yang dipanggil tidak seusai dengan variabel
 
-# 2.a(1,2);
+2.a(1,2);
 ![Alt Text](https://github.com/inamyrpl28/Jobsheet12/blob/master/Lat3a(1%2C2).PNG)
 
 Hasil run eror dikarenakan method yang dipanggil tidak seusai atau kurang tepat dengan variabel
 
-# 3.a(1,2,3,4);
+3.a(1,2,3,4);
 ![Alt Text](https://github.com/inamyrpl28/Jobsheet12/blob/master/lat3a(1%2C2%2C3%2C4).PNG)
 
 Hasil run eror dikarenakan method yang dipanggil terlalu banyak yang dan tidak tepat jadi tidak sesuai dengan variabel
 
-# 4.a(1.5, 2, 3);
+4.a(1.5, 2, 3);
 ![Alt Text](https://github.com/inamyrpl28/Jobsheet12/blob/master/Lat3a(1.5%2C2.3).PNG)
 
 Hasil run sesuai karenakan method yang dipanggil telah seusai dengan variabel yang ada
